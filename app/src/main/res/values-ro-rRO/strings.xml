@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="despre">Despre</string>
+    <string name="help">Ajutor</string>
+    <string name="optiuni">Optiuni</string>
+    <string name="recomandari">Recomandari</string>
+    <string name="harta">Harta</string>
+    <string name="goToLocation">Du-te!</string>
+    <string name="do_you_want_a_specific_location">Vrei sa mergi la o locatie anume?</string>
+    <string name="locCure">Sunt aici</string>
+    <string name="number_hours">Numarul de ore pentru vizitare</string>
+    <string name="primul">Primul obiectiv</string>
+    <string name="aldoilea">Al doilea obiectiv</string>
+    <string name="which_sights">Ce obiective NU doresti sa le vizitezi</string>
+    <string name="no_cur">Nu se poate detecta locatia curenta</string>
+</resources>

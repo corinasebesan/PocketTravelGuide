@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sights">
+        <item>@string/primul</item>
+        <item>@string/aldoilea</item>
+    </array>
+</resources>
